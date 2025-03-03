@@ -1,1 +1,1 @@
-# optimazeddevice1
+# optimizeddevice1
